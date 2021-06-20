@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+.menu{
+    position:fixed;
+    background:black;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+.link{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: cursive;
+    font-size: 30px;
+}
+.link:hover{
+    font-size:40px;
+}
+#welcome{
+    height: 900px;
+    width: 1250px;
+    top: 100;
+}
+#bs{
+    height: 500px;
+    width: 500px;
+}
+max{
+    height: 500px;
+    width: 100px;
+}
+h1{
+    font-family: cursive;
+}
+h1:hover{
+    font-family: inherit;
+}
+.carousel-inner { background-color: skyblue; } #myCarousel img { height: 300px; margin-top: 35px; }.carousel-inner p { margin-bottom: 15px; margin-top: 15px; color : black; font-size: 50px; }
